@@ -1,4 +1,5 @@
 My Name is Ritesh goyal. 
 Welcome to first tutorial of Git.
 
-Luke I am your father
+This tutorial workshop is really cool
+No, seriously its cool.
